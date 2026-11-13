@@ -7,7 +7,7 @@ PricePulse Analytics is an interactive data analytics dashboard designed to expl
 
 The project uses Python-based data processing and interactive visualisations to identify price trends, compare commodities, examine regional price variations and understand fluctuations in food prices over time.
 
-🌐 **Live Dashboard:** [Open PricePulse Analytics](ADD_LIVE_WEBSITE_LINK_HERE)
+🌐 **Live Dashboard:** [Open PricePulse Analytics](https://pricepulse-analytics.streamlit.app/)
 
 ---
 
