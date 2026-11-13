@@ -1,0 +1,23 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Uncompressed cleaned dataset (over GitHub's 100 MB file limit)
+dataset/cleaned_food_prices.csv
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
